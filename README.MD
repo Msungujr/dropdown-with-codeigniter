@@ -1,1 +1,1 @@
-## Dynamic dropdwon Script made with Codeigniter
+## Dynamic dropdown Script made with Codeigniter
